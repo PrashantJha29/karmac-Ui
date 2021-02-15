@@ -1,0 +1,113 @@
+body{
+    margin:0px;
+    background-color: black;
+}
+.c{
+    text-align: center;
+}
+#car-main{
+    background-size: 100%;
+    width: 500px;
+}
+.c1{
+    margin-top: -25px;
+    background-color: black;
+    position: relative;
+    height: 200px;
+}
+#sai-auto{
+    font-size: 40px;
+}
+#Tunga{
+    color: grey;
+}
+#powai{
+    margin-top: -15px;
+}
+#Timing{
+    color: rgb(51, 211, 46)
+}
+.c2{
+    margin-top: -25px;
+    height:200px;
+    text-align: center;
+    background-image: url(shutter.png);
+    background-color: black;
+}
+#W{
+    color:rgb(62, 197, 44);
+}
+#logo{
+    font-size: 40px;
+    color: antiquewhite;
+}
+h1,h4,h3,p,h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.c3{
+    font-size: 25px;
+}
+#hyundai{
+    margin-top: -165px;
+    float: right;
+    width: 13%;
+}
+#sundays{
+    float:right;
+    padding:20px;
+    margin-top: -25px;
+}
+#closed{
+    color: red;
+}
+#welcome{
+    position: relative;
+    top: 80px;
+    font-size: 70px;
+    color: rgb(235, 214, 234);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#mob{
+    padding-left: 150px;
+    padding-bottom: 50px;
+}
+#hh{
+    color: black;
+}
+#play{
+    margin-left: 50px;
+    padding-left: 250px;
+}
+.c4{
+    margin-top: 550px;
+    border: 2px solid white;
+    background-color: white;
+    text-align: center;
+
+}
+#feedback{
+    border: 2px solid white;
+    position: relative;
+    left: 50px;
+    border-width: 2px;
+    padding: 35px;
+    margin-top: 10px;
+}
+.c5{
+    margin-top: 550px;
+    padding-top: 150px;
+    padding-left: 40px;
+    padding: 50px;
+}
+#f{
+    margin-top: -50px;
+    margin-bottom: 30px;
+}
+#hr1{
+    margin-bottom: 70px;
+}
+#hr2{
+    margin-bottom: 70px;
+}
